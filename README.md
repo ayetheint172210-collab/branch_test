@@ -3,3 +3,4 @@ Update Branch-test
 Update Branch-again
 Global config
 Update Global config
+Check global config
